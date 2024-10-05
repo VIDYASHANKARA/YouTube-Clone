@@ -6,11 +6,11 @@ This project is a simple clone of the YouTube layout, built entirely using HTML 
 
 Features:
 
-  •Responsive Design: The video grid layout automatically adjusts as the browser shrinks, ensuring that videos are neatly arranged in rows and       columns.
+  • Responsive Design: The video grid layout automatically adjusts as the browser shrinks, ensuring that videos are neatly arranged in rows and       columns.
   
-  •Pure HTML & CSS: No JavaScript or external libraries were used in this project.
+  • Pure HTML & CSS: No JavaScript or external libraries were used in this project.
   
-  •Clean & Modern Layout: The clone replicates the modern, minimalistic look of YouTube’s homepage.
+  • Clean & Modern Layout: The clone replicates the modern, minimalistic look of YouTube’s homepage.
   
   
 Project Screenshot:

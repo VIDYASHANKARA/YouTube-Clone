@@ -1,0 +1,19 @@
+body{
+    padding-top: 0px;
+    padding-left: 70px;
+    background-color: rgb(19, 19, 19);
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+Symbol-Youtube.png{
+    background-size: contain;
+}
+.button{
+    background-color: transparent;
+    border-radius: 15px;
+    outline-style: none;
+    
+    
+}

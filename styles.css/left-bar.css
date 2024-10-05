@@ -1,0 +1,9 @@
+.left-bar{
+   position: sticky;
+    background-color:  rgb(234, 214, 214);
+    top:50px;
+    width: 50px;
+    height: 100px;
+    margin-right: 50px;
+    z-index: -1000000;
+}
